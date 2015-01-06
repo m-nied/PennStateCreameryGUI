@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE customerRecords SYSTEM "Customers.dtd">
+<customerRecords>
+	<Customers>
+		<FName>Sean</FName>	
+		<LName>Hafferty</LName>	
+		<StreetNum>19</StreetNum>	
+		<StreetName>East Lane</StreetName>	
+		<City>Pittston</City>	
+		<State>PA</State>	
+		<ZipCode>18640</ZipCode>	
+		<Phone>6785573997</Phone>	
+		<PIN>1234</PIN>	
+		<Balance>9.0</Balance>
+	</Customers>
+	<Customers>
+		<FName>Mike</FName>	
+		<LName>Amazing</LName>	
+		<StreetNum>1234</StreetNum>	
+		<StreetName>Penn State Way</StreetName>	
+		<City>Dunmore</City>	
+		<State>PA</State>	
+		<ZipCode>18641</ZipCode>	
+		<Phone>5703214567</Phone>	
+		<PIN>1111</PIN>	
+		<Balance>0.0</Balance>
+	</Customers>
+	<Customers>
+		<FName>Christina</FName>	
+		<LName>Pol</LName>	
+		<StreetNum>213</StreetNum>	
+		<StreetName>Penn Avenue</StreetName>	
+		<City>Scranton</City>	
+		<State>Pa</State>	
+		<ZipCode>18222</ZipCode>	
+		<Phone>5552225656</Phone>	
+		<PIN>2222</PIN>	
+		<Balance>0.0</Balance>
+	</Customers>
+	<Customers>
+		<FName>Dr Deb</FName>	
+		<LName>Java Guru</LName>	
+		<StreetNum>100</StreetNum>	
+		<StreetName>Penn State</StreetName>	
+		<City>Dunmore</City>	
+		<State>PA</State>	
+		<ZipCode>18301</ZipCode>	
+		<Phone>5708675309</Phone>	
+		<PIN>9999</PIN>	
+		<Balance>0.0</Balance>
+	</Customers>
+	<Customers>
+		<FName>Mike</FName>	
+		<LName>Blah</LName>	
+		<StreetNum>232</StreetNum>	
+		<StreetName>Hello</StreetName>	
+		<City>There</City>	
+		<State>GA</State>	
+		<ZipCode>30022</ZipCode>	
+		<Phone>1234567899</Phone>	
+		<PIN>4567</PIN>	
+		<Balance>1.5</Balance>
+	</Customers>
+</customerRecords>

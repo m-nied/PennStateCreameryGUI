@@ -1,0 +1,12 @@
+<!ELEMENT customerRecords (Customers*)>
+<!ELEMENT Customers (FName, LName, StreetNum,StreetName,City,State,ZipCode,Phone,PIN,Balance)>
+<!ELEMENT FName (#PCDATA)>
+<!ELEMENT LName (#PCDATA)>
+<!ELEMENT StreetNum (#PCDATA)>
+<!ELEMENT StreetName (#PCDATA)>
+<!ELEMENT City (#PCDATA)>
+<!ELEMENT State (#PCDATA)>
+<!ELEMENT ZipCode (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
+<!ELEMENT PIN (#PCDATA)>
+<!ELEMENT Balance (#PCDATA)>

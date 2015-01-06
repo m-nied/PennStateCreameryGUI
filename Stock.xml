@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><itemStock>
+  <Stock>
+    <ItemName>Vanilla</ItemName>
+    <Amount>9</Amount>
+    <ItemLimit>50</ItemLimit>
+    <ItemType>Ice Cream</ItemType>
+  </Stock>
+  <Stock>
+    <ItemName>Chocolate</ItemName>
+    <Amount>14</Amount>
+    <ItemLimit>50</ItemLimit>
+    <ItemType>Ice Cream</ItemType>
+  </Stock>
+  <Stock>
+    <ItemName>Strawberry</ItemName>
+    <Amount>11</Amount>
+    <ItemLimit>50</ItemLimit>
+    <ItemType>Ice Cream</ItemType>
+  </Stock>
+  <Stock>
+    <ItemName>Sprinkles</ItemName>
+    <Amount>18</Amount>
+    <ItemLimit>50</ItemLimit>
+    <ItemType>Topping</ItemType>
+  </Stock>
+  <Stock>
+    <ItemName>Hot-Fudge</ItemName>
+    <Amount>16</Amount>
+    <ItemLimit>50</ItemLimit>
+    <ItemType>Topping</ItemType>
+  </Stock>
+  <Stock>
+    <ItemName>Waffle Cone</ItemName>
+    <Amount>13</Amount>
+    <ItemLimit>50</ItemLimit>
+    <ItemType>Container</ItemType>
+  </Stock>
+  <Stock>
+    <ItemName>Sugar Cone</ItemName>
+    <Amount>14</Amount>
+    <ItemLimit>50</ItemLimit>
+    <ItemType>Container</ItemType>
+  </Stock>
+</itemStock>

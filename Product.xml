@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE productRecords SYSTEM "Product.dtd">
+<productRecords>
+  <Product>
+    <ItemName>Vanilla</ItemName>
+    <Price>1.50</Price>
+    <ItemType>Ice Cream</ItemType>
+  </Product>
+  <Product>
+    <ItemName>Chocolate</ItemName>
+    <Price>1.50</Price>
+    <ItemType>Ice Cream</ItemType>
+  </Product>
+  <Product>
+    <ItemName>Strawberry</ItemName>
+    <Price>1.50</Price>
+    <ItemType>Ice Cream</ItemType>
+  </Product>
+  <Product>
+    <ItemName>Sprinkles</ItemName>
+    <Price>1.00</Price>
+    <ItemType>Topping</ItemType>
+  </Product>
+  <Product>
+    <ItemName>Hot-Fudge</ItemName>
+    <Price>1.00</Price>
+    <ItemType>Topping</ItemType>
+  </Product>
+  <Product>
+    <ItemName>Waffle Cone</ItemName>
+    <Price>1.25</Price>
+    <ItemType>Container</ItemType>
+  </Product>
+  <Product>
+    <ItemName>Sugar Cone</ItemName>
+    <Price>1.25</Price>
+    <ItemType>Container</ItemType>
+  </Product>
+</productRecords>

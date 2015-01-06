@@ -1,0 +1,5 @@
+<!ELEMENT productRecords (Product*)>
+<!ELEMENT Product (ItemName, Price, ItemType)>
+<!ELEMENT ItemName (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT ItemType (#PCDATA)>

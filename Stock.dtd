@@ -1,0 +1,6 @@
+<!ELEMENT itemStock (Stock*)>
+<!ELEMENT Stock (ItemName, Amount, ItemLimit, ItemType)>
+<!ELEMENT ItemName (#PCDATA)>
+<!ELEMENT Amount (#PCDATA)>
+<!ELEMENT ItemLimit (#PCDATA)>
+<!ELEMENT ItemType (#PCDATA)>
